@@ -1,2 +1,2 @@
-web3
-eth_account
+web3==5.30.0
+eth_account==0.5.8
